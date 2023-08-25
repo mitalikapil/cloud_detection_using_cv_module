@@ -19,7 +19,7 @@ def detect_clouds(image_area):
 
 
 # Center point for concentric zones
-center_x = 600
+center_x = 700
 center_y = 500
 
 # Number of concentric zones
